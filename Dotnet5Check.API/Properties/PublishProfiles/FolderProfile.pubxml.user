@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\0.data\1.self\0.dotnet\Dotnet5Check\Dotnet5Check.API\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-07-07T07:42:38.0695754Z;True|2021-07-07T15:35:56.9740895+08:00;True|2021-07-07T15:02:01.9637941+08:00;True|2021-07-07T15:01:55.7488559+08:00;True|2021-07-07T14:27:55.3487746+08:00;True|2021-07-07T14:21:01.7357107+08:00;True|2021-07-07T13:32:23.1259260+08:00;True|2021-07-07T13:31:39.0291490+08:00;True|2021-07-07T13:31:20.1857997+08:00;True|2021-07-07T13:22:31.4091348+08:00;True|2021-07-07T12:53:45.6351674+08:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="wwwroot/Captcha/Font/站酷酷黑体.ttf">
+      <publishTime>05/19/2021 15:16:50</publishTime>
+    </File>
+    <File Include="wwwroot/Captcha/Image/1.jpg">
+      <publishTime>05/19/2021 15:16:50</publishTime>
+    </File>
+    <File Include="wwwroot/Captcha/Image/2.jpg">
+      <publishTime>05/19/2021 15:16:50</publishTime>
+    </File>
+    <File Include="wwwroot/Captcha/Image/3.jpg">
+      <publishTime>05/19/2021 15:16:50</publishTime>
+    </File>
+    <File Include="wwwroot/Captcha/Image/4.jpg">
+      <publishTime>05/19/2021 15:16:50</publishTime>
+    </File>
+    <File Include="wwwroot/Captcha/Image/5.jpg">
+      <publishTime>05/19/2021 15:16:50</publishTime>
+    </File>
+    <File Include="wwwroot/Captcha/Image/6.jpg">
+      <publishTime>05/19/2021 15:16:50</publishTime>
+    </File>
+    <File Include="wwwroot/Captcha/Image/7.jpg">
+      <publishTime>05/19/2021 15:16:50</publishTime>
+    </File>
+    <File Include="wwwroot/Captcha/Image/8.jpg">
+      <publishTime>05/19/2021 15:16:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
